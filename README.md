@@ -1,5 +1,5 @@
 # Hello-World
 
-This is my first program in java.
+Este es mi primer programa en Java
 
-Prints "Hello world" to the terminal window.
+Imprime por pantalla el mensaje "Hola mundo!"
