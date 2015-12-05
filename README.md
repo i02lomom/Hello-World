@@ -1,4 +1,4 @@
-# Hello-World
+# HolaMundo
 
 Este es mi primer programa en Java
 
